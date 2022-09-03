@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Andrew Grant.
-- 👍I’m interested in web development, front-end and bacck-end. Other interests include playing guitar, drums, piano. I love to cook!
+- 👍I’m interested in web development, front-end and back-end. Other interests include playing guitar, drums, piano. I love to cook!
 - 📖I’m currently learning HTML, CSS, Javascript, React.
 - 🙂I’m new to the coding community so I am still learning the ins-and-outs with collabs.
 - 📫I can be reached at andrew.ag.grant@gmail.com
